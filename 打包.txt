@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --icon=logo.ico --version-file=version.txt main.py
